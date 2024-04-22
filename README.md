@@ -1,4 +1,4 @@
-### Hi welcome to my page 👋
+### Hallo welcome to my page 👋
 
 <!--
  I'm Loc Nguyen 👋
