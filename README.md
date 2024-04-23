@@ -16,7 +16,8 @@
 * Modelling and Geoinformatics Analysis: GIS, PostgreSQL, PostGIS, SWMM, Vensim.
 * Project and Web Management: Experienced with CRM, Joomla Frameworks web content management system.
 * Additional Tools: Skilled in using Gogle Earth Engine, Google API, Google Analytics, Jupyter Notebook, Visual Studio Code.
-  
+
+#
 <p align="center">
    <i>""Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine. " — Jack Ma
 </i>
