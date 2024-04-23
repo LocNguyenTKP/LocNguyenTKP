@@ -15,7 +15,7 @@
 * Data Analysis: Python (NumPy, Pandas, Scikit-learn, GDAL, Google Colab, Rasterio, Matplotlib ),  Javascript, and SQL.
 * Modelling and Geoinformatics Analysis: GIS, PostgreSQL, PostGIS, SWMM, Vensim.
 * Project and Web Management: Experienced with CRM, Joomla Frameworks web content management system.
-* Additional Tools: Skilled in using Gogle Earth Engine, Google API, Google Analytics, Jupyter Notebook, Visual Studio Code.
+* Additional Tools: Skilled in using Google Earth Engine, Google API, Google Analytics, Jupyter Notebook, Visual Studio Code, basic use HTML and CSS for front-end development 
 
 #
 <p align="center">
