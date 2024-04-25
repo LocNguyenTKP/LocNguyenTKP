@@ -4,8 +4,8 @@
 
 ## 📘 About Me 🌱
 
-- 💻 I’m currently working in climate data analysis
-- ☁️ I'm interested in Machine Learning algorithms to understand patterns, predicting future
+- 💻 I’m currently working in climate and environment-related data analysis
+- ☁️ I'm interested in AI scope algorithms to understand patterns and predicting future
 - 🛠️ I’m currently developing data -related projects
 - 📝 I’m looking for a full time position in data analyst
 - ☕ Ask me about philosophy, history, and tea
