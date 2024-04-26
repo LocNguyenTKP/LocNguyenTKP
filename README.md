@@ -19,7 +19,7 @@
 
 #
 <p align="center">
-   <i>""Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine. " — Jack Ma
+   <i>""Das Glück hilft dem Kühnen - Fortune favours the bold"
 </i>
    
 <br>
