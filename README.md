@@ -1,7 +1,6 @@
 ### Hello World! I'm Loc Nguyen! Welcome to my page 👋  
 
- <p>I am a Geoinformatics and remote sensing data analyst. I am enrolling in a Georisk Master at the University of Bonn, Germany. I have been working in the development and application of Machine Learning for climate and data classification and predictions. My passion lies in exploring data across various domains, turn complex data into actionable insights that drive development growth and operational efficiency. <em>And I’m looking for a full-time data-related position.</em></p>  
-
+ <p>I am a Geoinformatics and remote sensing data analyst. I am enrolling in a Georisk Master at the University of Bonn, Germany. I have been working in the development and application of Machine Learning for climate and data classification and predictions. My passion lies in exploring data across various domains, turn complex data into actionable insights that drive development growth and operational efficiency. 
 ## 📘 About Me 🌱
 
 - 💻 I’m currently working in climate and environment-related data analysis
