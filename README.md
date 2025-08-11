@@ -1,29 +1,34 @@
-### Hello World! I'm Loc Nguyen! Welcome to my page 👋  
+### Hello World! I'm Loc Nguyen! 👋  
 
- <p>I am a Geoinformatics and remote sensing data analyst. I am enrolling in a Georisk Master at the University of Bonn, Germany. I have been working in the development and application of Machine Learning for climate and data classification and predictions. My passion lies in exploring data across various domains, turn complex data into actionable insights that drive development growth and operational efficiency.  <p>
+I am a **Geospatial Data Engineer** and **Remote Sensing Specialist** with expertise in **machine learning, climate risk analytics, and geoinformatics**., I design and implement solutions that transform complex geospatial datasets into actionable insights for **environmental management, infrastructure monitoring, and climate resilience**.  
+
+---
+
 ## 📘 About Me 🌱
 
-- 💻 I’m currently working in climate and environment-related data analysis
-- ☁️ I'm interested in AI scope algorithms to understand patterns and predicting future
-- 🛠️ I’m currently developing data -related projects
-- 📝 I’m looking for a full time position in data analyst
-- ☕ Ask me about philosophy, history, and tea
-- 🌎 Everything in the world is connected in some way
+- 💻 Currently working on **climate and environmental data analysis** projects.  
+- ☁️ Interested in **AI/ML algorithms** for pattern detection, predictive modeling, and spatial classification.  
+- 🛠 Building **geospatial automation pipelines** for satellite and LiDAR datasets.  
+- 📝 Seeking a **full-time position** in data engineering, geospatial analytics, or AI-driven Earth observation.  
+- ☕ Ask me about **philosophy, history, and tea**.  
+- 🌎 Believe that **everything in the world is connected** — my work reflects this by integrating diverse data sources.  
 
-## 🛠 Tools & Technologies
-* Data Analysis: Python (NumPy, Pandas, Scikit-learn, GDAL, Google Colab, Rasterio, Matplotlib ),  Javascript, and SQL.
-* Modelling and Geoinformatics Analysis: GIS, PostgreSQL, PostGIS, SWMM, Vensim.
-* Project and Web Management: Experienced with CRM, Joomla Frameworks web content management system.
-* Additional Tools: Skilled in using Google Earth Engine, Google API, Google Analytics, Jupyter Notebook, Visual Studio Code, basic use HTML and CSS for front-end development.
+---
 
-#
+## 🛠 Tools & Technologies  
+
+**Data Engineering & Analysis:** Python (NumPy, Pandas, Scikit-learn, GDAL, Rasterio, Matplotlib), JavaScript, SQL  
+**Geospatial Processing & Modeling:** GIS, PostgreSQL/PostGIS, Google Earth Engine, SWMM, Vensim  
+**Machine Learning & AI:** Supervised classification (SVM, RF, CART), deep learning for land cover & forest detection, RAG (Retrieval-Augmented Generation) on Google Cloud  
+**Cloud & Infrastructure:** Azure Data Factory, Databricks, Google Cloud Platform, AWS (familiarity)  
+**Visualization & Dashboards:** Power BI, ESRI StoryMaps, Leaflet, OpenLayers  
+**Project & Web Management:** CRM, Joomla CMS, Google Analytics, HTML/CSS (basic)  
+
+---
+
 <p align="center">
-   <i>""Das Glück hilft dem Kühnen - Fortune favours the bold"
-</i>
-   
-<br>
-<br>
-<a target="_blank" href="https://www.linkedin.com/in/loc-nguyen-2b9967180/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:nguyenloctkp@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br>
-</p>   
+   <i>"Das Glück hilft dem Kühnen – Fortune favours the bold"</i>  
+   <br><br>
+   <a target="_blank" href="https://www.linkedin.com/in/loc-nguyen-2b9967180/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+   <a target="_blank" href="mailto:nguyenloctkp@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</p>
